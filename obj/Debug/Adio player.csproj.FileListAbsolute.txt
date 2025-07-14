@@ -1,0 +1,274 @@
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\Adio player.exe.config
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\Adio player.exe
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\Adio player.pdb
+D:\friends\Atharv patil\New folder\Adio player\obj\Debug\Adio player.csproj.AssemblyReference.cache
+D:\friends\Atharv patil\New folder\Adio player\obj\Debug\Adio_player.Properties.Resources.resources
+D:\friends\Atharv patil\New folder\Adio player\obj\Debug\Adio player.csproj.GenerateResource.cache
+D:\friends\Atharv patil\New folder\Adio player\obj\Debug\Adio player.csproj.CoreCompileInputs.cache
+D:\friends\Atharv patil\New folder\Adio player\obj\Debug\Adio player.exe
+D:\friends\Atharv patil\New folder\Adio player\obj\Debug\Adio player.pdb
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\AxInterop.WMPLib.dll
+D:\friends\Atharv patil\New folder\Adio player\obj\Debug\Adio pla.BE98CCCF.Up2Date
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\Microsoft.Win32.Registry.dll
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\NAudio.Core.dll
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\NAudio.Wasapi.dll
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\NAudio.WinForms.dll
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\NAudio.WinMM.dll
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\System.Buffers.dll
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\System.Memory.dll
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\System.Numerics.Vectors.dll
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\System.Security.AccessControl.dll
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\System.Security.Principal.Windows.dll
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\Microsoft.Win32.Registry.xml
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\NAudio.Core.xml
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\NAudio.Wasapi.xml
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\NAudio.WinForms.xml
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\NAudio.WinMM.xml
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\System.Buffers.xml
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\System.Memory.xml
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\System.Numerics.Vectors.xml
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\System.Security.AccessControl.xml
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\System.Security.Principal.Windows.xml
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\FontAwesome.Sharp.dll
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\Adio player.exe.manifest
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\Adio player.application
+D:\friends\Atharv patil\New folder\Adio player\obj\Debug\Adio player.TrustInfo.xml
+D:\friends\Atharv patil\New folder\Adio player\obj\Debug\Adio player.exe.manifest
+D:\friends\Atharv patil\New folder\Adio player\obj\Debug\Adio player.application
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\Newtonsoft.Json.dll
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\Newtonsoft.Json.xml
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\NAudio.Asio.dll
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\NAudio.dll
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\NAudio.Midi.dll
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\NAudio.xml
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\NAudio.Asio.xml
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\NAudio.Midi.xml
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\System.IO.Pipelines.dll
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\System.Text.Encodings.Web.dll
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\System.Text.Json.dll
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\System.ValueTuple.dll
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\System.IO.Pipelines.xml
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\System.Text.Encodings.Web.xml
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\System.Text.Json.xml
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\System.ValueTuple.xml
+D:\friends\Atharv patil\New folder\Adio player\obj\Debug\Interop.MediaPlayer.dll
+D:\friends\Atharv patil\New folder\Adio player\obj\Debug\Interop.WMPLib.dll
+D:\friends\Atharv patil\New folder\Adio player\obj\Debug\Adio player.csproj.ResolveComReference.cache
+D:\friends\Atharv patil\New folder\Adio player\obj\Debug\OnlineSongImplement.Form1.resources
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\SkiaSharp.dll
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\SkiaSharp.pdb
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\MaterialSkin.dll
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\MetroFramework.Design.dll
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\MetroFramework.dll
+D:\friends\Atharv patil\New folder\Adio player\bin\Debug\MetroFramework.Fonts.dll
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\Adio player.exe.config
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\Adio player.exe.manifest
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\Adio player.application
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\Adio player.exe
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\Adio player.pdb
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\AxInterop.WMPLib.dll
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\FontAwesome.Sharp.dll
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\MetroFramework.Design.dll
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\MetroFramework.dll
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\MetroFramework.Fonts.dll
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\Microsoft.Win32.Registry.dll
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\NAudio.Asio.dll
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\NAudio.Core.dll
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\NAudio.dll
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\NAudio.Midi.dll
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\NAudio.Wasapi.dll
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\NAudio.WinForms.dll
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\NAudio.WinMM.dll
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\Newtonsoft.Json.dll
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\SkiaSharp.dll
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\System.Buffers.dll
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\System.IO.Pipelines.dll
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\System.Memory.dll
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\System.Numerics.Vectors.dll
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\System.Security.AccessControl.dll
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\System.Security.Principal.Windows.dll
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\System.Text.Encodings.Web.dll
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\System.Text.Json.dll
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\System.ValueTuple.dll
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\Microsoft.Win32.Registry.xml
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\NAudio.xml
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\NAudio.Asio.xml
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\NAudio.Core.xml
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\NAudio.Midi.xml
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\NAudio.Wasapi.xml
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\NAudio.WinForms.xml
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\NAudio.WinMM.xml
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\Newtonsoft.Json.xml
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\SkiaSharp.pdb
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\System.Buffers.xml
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\System.IO.Pipelines.xml
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\System.Memory.xml
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\System.Numerics.Vectors.xml
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\System.Security.AccessControl.xml
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\System.Security.Principal.Windows.xml
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\System.Text.Encodings.Web.xml
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\System.Text.Json.xml
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\bin\Debug\System.ValueTuple.xml
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\obj\Debug\Adio player.csproj.AssemblyReference.cache
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\obj\Debug\Interop.MediaPlayer.dll
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\obj\Debug\Interop.WMPLib.dll
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\obj\Debug\Adio player.csproj.ResolveComReference.cache
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\obj\Debug\OnlineSongImplement.Form1.resources
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\obj\Debug\Adio_player.Properties.Resources.resources
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\obj\Debug\Adio player.csproj.GenerateResource.cache
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\obj\Debug\Adio player.csproj.CoreCompileInputs.cache
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\obj\Debug\Adio player.TrustInfo.xml
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\obj\Debug\Adio player.exe.manifest
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\obj\Debug\Adio player.application
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\obj\Debug\Adio pla.BE98CCCF.Up2Date
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\obj\Debug\Adio player.exe
+C:\ashutosh\collage project\Atharv patil\New folder\Adio player\obj\Debug\Adio player.pdb
+D:\sohel\Adio player\bin\Debug\Adio player.exe.config
+D:\sohel\Adio player\bin\Debug\Adio player.exe.manifest
+D:\sohel\Adio player\bin\Debug\Adio player.application
+D:\sohel\Adio player\bin\Debug\Adio player.exe
+D:\sohel\Adio player\bin\Debug\Adio player.pdb
+D:\sohel\Adio player\bin\Debug\AxInterop.WMPLib.dll
+D:\sohel\Adio player\bin\Debug\FontAwesome.Sharp.dll
+D:\sohel\Adio player\bin\Debug\MetroFramework.Design.dll
+D:\sohel\Adio player\bin\Debug\MetroFramework.dll
+D:\sohel\Adio player\bin\Debug\MetroFramework.Fonts.dll
+D:\sohel\Adio player\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\sohel\Adio player\bin\Debug\Microsoft.Win32.Registry.dll
+D:\sohel\Adio player\bin\Debug\NAudio.Asio.dll
+D:\sohel\Adio player\bin\Debug\NAudio.Core.dll
+D:\sohel\Adio player\bin\Debug\NAudio.dll
+D:\sohel\Adio player\bin\Debug\NAudio.Midi.dll
+D:\sohel\Adio player\bin\Debug\NAudio.Wasapi.dll
+D:\sohel\Adio player\bin\Debug\NAudio.WinForms.dll
+D:\sohel\Adio player\bin\Debug\NAudio.WinMM.dll
+D:\sohel\Adio player\bin\Debug\Newtonsoft.Json.dll
+D:\sohel\Adio player\bin\Debug\SkiaSharp.dll
+D:\sohel\Adio player\bin\Debug\System.Buffers.dll
+D:\sohel\Adio player\bin\Debug\System.IO.Pipelines.dll
+D:\sohel\Adio player\bin\Debug\System.Memory.dll
+D:\sohel\Adio player\bin\Debug\System.Numerics.Vectors.dll
+D:\sohel\Adio player\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\sohel\Adio player\bin\Debug\System.Security.AccessControl.dll
+D:\sohel\Adio player\bin\Debug\System.Security.Principal.Windows.dll
+D:\sohel\Adio player\bin\Debug\System.Text.Encodings.Web.dll
+D:\sohel\Adio player\bin\Debug\System.Text.Json.dll
+D:\sohel\Adio player\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\sohel\Adio player\bin\Debug\System.ValueTuple.dll
+D:\sohel\Adio player\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\sohel\Adio player\bin\Debug\Microsoft.Win32.Registry.xml
+D:\sohel\Adio player\bin\Debug\NAudio.xml
+D:\sohel\Adio player\bin\Debug\NAudio.Asio.xml
+D:\sohel\Adio player\bin\Debug\NAudio.Core.xml
+D:\sohel\Adio player\bin\Debug\NAudio.Midi.xml
+D:\sohel\Adio player\bin\Debug\NAudio.Wasapi.xml
+D:\sohel\Adio player\bin\Debug\NAudio.WinForms.xml
+D:\sohel\Adio player\bin\Debug\NAudio.WinMM.xml
+D:\sohel\Adio player\bin\Debug\Newtonsoft.Json.xml
+D:\sohel\Adio player\bin\Debug\SkiaSharp.pdb
+D:\sohel\Adio player\bin\Debug\System.Buffers.xml
+D:\sohel\Adio player\bin\Debug\System.IO.Pipelines.xml
+D:\sohel\Adio player\bin\Debug\System.Memory.xml
+D:\sohel\Adio player\bin\Debug\System.Numerics.Vectors.xml
+D:\sohel\Adio player\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\sohel\Adio player\bin\Debug\System.Security.AccessControl.xml
+D:\sohel\Adio player\bin\Debug\System.Security.Principal.Windows.xml
+D:\sohel\Adio player\bin\Debug\System.Text.Encodings.Web.xml
+D:\sohel\Adio player\bin\Debug\System.Text.Json.xml
+D:\sohel\Adio player\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\sohel\Adio player\bin\Debug\System.ValueTuple.xml
+D:\sohel\Adio player\obj\Debug\Adio player.csproj.AssemblyReference.cache
+D:\sohel\Adio player\obj\Debug\Interop.MediaPlayer.dll
+D:\sohel\Adio player\obj\Debug\Interop.WMPLib.dll
+D:\sohel\Adio player\obj\Debug\Adio player.csproj.ResolveComReference.cache
+D:\sohel\Adio player\obj\Debug\OnlineSongImplement.Form1.resources
+D:\sohel\Adio player\obj\Debug\Adio_player.Properties.Resources.resources
+D:\sohel\Adio player\obj\Debug\Adio player.csproj.GenerateResource.cache
+D:\sohel\Adio player\obj\Debug\Adio player.csproj.CoreCompileInputs.cache
+D:\sohel\Adio player\obj\Debug\Adio player.TrustInfo.xml
+D:\sohel\Adio player\obj\Debug\Adio player.exe.manifest
+D:\sohel\Adio player\obj\Debug\Adio player.application
+D:\sohel\Adio player\obj\Debug\Adio pla.BE98CCCF.Up2Date
+D:\sohel\Adio player\obj\Debug\Adio player.exe
+D:\sohel\Adio player\obj\Debug\Adio player.pdb
+D:\friends\Atharv patil\Adio player\bin\Debug\Adio player.exe.config
+D:\friends\Atharv patil\Adio player\bin\Debug\Adio player.exe.manifest
+D:\friends\Atharv patil\Adio player\bin\Debug\Adio player.application
+D:\friends\Atharv patil\Adio player\bin\Debug\Adio player.exe
+D:\friends\Atharv patil\Adio player\bin\Debug\Adio player.pdb
+D:\friends\Atharv patil\Adio player\bin\Debug\AxInterop.WMPLib.dll
+D:\friends\Atharv patil\Adio player\bin\Debug\FontAwesome.Sharp.dll
+D:\friends\Atharv patil\Adio player\bin\Debug\MetroFramework.Design.dll
+D:\friends\Atharv patil\Adio player\bin\Debug\MetroFramework.dll
+D:\friends\Atharv patil\Adio player\bin\Debug\MetroFramework.Fonts.dll
+D:\friends\Atharv patil\Adio player\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\friends\Atharv patil\Adio player\bin\Debug\Microsoft.Win32.Registry.dll
+D:\friends\Atharv patil\Adio player\bin\Debug\NAudio.Asio.dll
+D:\friends\Atharv patil\Adio player\bin\Debug\NAudio.Core.dll
+D:\friends\Atharv patil\Adio player\bin\Debug\NAudio.dll
+D:\friends\Atharv patil\Adio player\bin\Debug\NAudio.Midi.dll
+D:\friends\Atharv patil\Adio player\bin\Debug\NAudio.Wasapi.dll
+D:\friends\Atharv patil\Adio player\bin\Debug\NAudio.WinForms.dll
+D:\friends\Atharv patil\Adio player\bin\Debug\NAudio.WinMM.dll
+D:\friends\Atharv patil\Adio player\bin\Debug\Newtonsoft.Json.dll
+D:\friends\Atharv patil\Adio player\bin\Debug\SkiaSharp.dll
+D:\friends\Atharv patil\Adio player\bin\Debug\System.Buffers.dll
+D:\friends\Atharv patil\Adio player\bin\Debug\System.IO.Pipelines.dll
+D:\friends\Atharv patil\Adio player\bin\Debug\System.Memory.dll
+D:\friends\Atharv patil\Adio player\bin\Debug\System.Numerics.Vectors.dll
+D:\friends\Atharv patil\Adio player\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\friends\Atharv patil\Adio player\bin\Debug\System.Security.AccessControl.dll
+D:\friends\Atharv patil\Adio player\bin\Debug\System.Security.Principal.Windows.dll
+D:\friends\Atharv patil\Adio player\bin\Debug\System.Text.Encodings.Web.dll
+D:\friends\Atharv patil\Adio player\bin\Debug\System.Text.Json.dll
+D:\friends\Atharv patil\Adio player\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\friends\Atharv patil\Adio player\bin\Debug\System.ValueTuple.dll
+D:\friends\Atharv patil\Adio player\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\friends\Atharv patil\Adio player\bin\Debug\Microsoft.Win32.Registry.xml
+D:\friends\Atharv patil\Adio player\bin\Debug\NAudio.xml
+D:\friends\Atharv patil\Adio player\bin\Debug\NAudio.Asio.xml
+D:\friends\Atharv patil\Adio player\bin\Debug\NAudio.Core.xml
+D:\friends\Atharv patil\Adio player\bin\Debug\NAudio.Midi.xml
+D:\friends\Atharv patil\Adio player\bin\Debug\NAudio.Wasapi.xml
+D:\friends\Atharv patil\Adio player\bin\Debug\NAudio.WinForms.xml
+D:\friends\Atharv patil\Adio player\bin\Debug\NAudio.WinMM.xml
+D:\friends\Atharv patil\Adio player\bin\Debug\Newtonsoft.Json.xml
+D:\friends\Atharv patil\Adio player\bin\Debug\SkiaSharp.pdb
+D:\friends\Atharv patil\Adio player\bin\Debug\System.Buffers.xml
+D:\friends\Atharv patil\Adio player\bin\Debug\System.IO.Pipelines.xml
+D:\friends\Atharv patil\Adio player\bin\Debug\System.Memory.xml
+D:\friends\Atharv patil\Adio player\bin\Debug\System.Numerics.Vectors.xml
+D:\friends\Atharv patil\Adio player\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\friends\Atharv patil\Adio player\bin\Debug\System.Security.AccessControl.xml
+D:\friends\Atharv patil\Adio player\bin\Debug\System.Security.Principal.Windows.xml
+D:\friends\Atharv patil\Adio player\bin\Debug\System.Text.Encodings.Web.xml
+D:\friends\Atharv patil\Adio player\bin\Debug\System.Text.Json.xml
+D:\friends\Atharv patil\Adio player\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\friends\Atharv patil\Adio player\bin\Debug\System.ValueTuple.xml
+D:\friends\Atharv patil\Adio player\obj\Debug\Adio player.csproj.AssemblyReference.cache
+D:\friends\Atharv patil\Adio player\obj\Debug\Interop.MediaPlayer.dll
+D:\friends\Atharv patil\Adio player\obj\Debug\Interop.WMPLib.dll
+D:\friends\Atharv patil\Adio player\obj\Debug\Adio player.csproj.ResolveComReference.cache
+D:\friends\Atharv patil\Adio player\obj\Debug\OnlineSongImplement.Form1.resources
+D:\friends\Atharv patil\Adio player\obj\Debug\Adio_player.Properties.Resources.resources
+D:\friends\Atharv patil\Adio player\obj\Debug\Adio player.csproj.GenerateResource.cache
+D:\friends\Atharv patil\Adio player\obj\Debug\Adio player.csproj.CoreCompileInputs.cache
+D:\friends\Atharv patil\Adio player\obj\Debug\Adio player.TrustInfo.xml
+D:\friends\Atharv patil\Adio player\obj\Debug\Adio player.exe.manifest
+D:\friends\Atharv patil\Adio player\obj\Debug\Adio player.application
+D:\friends\Atharv patil\Adio player\obj\Debug\Adio pla.BE98CCCF.Up2Date
+D:\friends\Atharv patil\Adio player\obj\Debug\Adio player.exe
+D:\friends\Atharv patil\Adio player\obj\Debug\Adio player.pdb
+D:\friends\Atharv patil\Adio player\obj\Debug\Adio player.exe.config
